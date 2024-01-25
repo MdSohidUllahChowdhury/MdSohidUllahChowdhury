@@ -25,7 +25,6 @@ Life Like Code!!
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
- ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MdSohidUllahChowdhury&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
