@@ -1,19 +1,16 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MD Sohid Ullah Chowdhury
+================================================================================================================================================
 
-<!--
-**MdSohidUllahChowdhury/MdSohidUllahChowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer
+------------------
 
-Here are some ideas to get you started:
+Life Like Code!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Dhaka,Bangladesh
+*   ✉️  You can contact me at [mdsohidullahchowdhury1@gmail.com](mailto:mdsohidullahchowdhury1@gmail.com)
+*   🧠  I'm learning Python II JavaScript II Tensorflow II DeepLearning
+*   🤝  I'm open to collaborating on exciting projects<a href="https://www.github.com/MdSohidUllahChowdhury" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/MdSohidUllahChowdhury?logo=github&style=for-the-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shakilchowdhury19) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shakil_chowdhury19/) 
