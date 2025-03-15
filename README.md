@@ -8,7 +8,7 @@ Life Like Code!!
 
 *   🌍  I'm based in Dhaka,Bangladesh
 *   ✉️  You can contact me at [mdsohidullahchowdhury1@gmail.com](mailto:mdsohidullahchowdhury1@gmail.com)
-*   🧠  I'm learning Python II JavaScript II Tensorflow II DeepLearning
+*   🧠  I'm learning  AI/ML II DeepLearning
 *   🤝  I'm open to collaborating on exciting projects
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shakilchowdhury19) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shakil_chowdhury19/) 
