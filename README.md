@@ -3,18 +3,12 @@ Greetings ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 ### Mobile App Developer | AI/ML Enthusiast | Problem Solver | CS Graduate
 
 I'm a curious mind and a **Mobile App Developer** with a Bachelor's in Computer Science and Engineering. I craft modern, user-friendly mobile experiences — blending clean code, clever UI, and real-world impact.
-
 Currently building cool stuff professionally using **Flutter**, turning ideas into apps that not only work but *delight*.
 
 ### What gets me hyped?
 - **AI & Deep Learning Research** — I'm deeply fascinated by how machines learn and think.
 - **Problem Solving** — Whether it's debugging a tricky crash or solving a complex algorithm, I enjoy the challenge.
 - **Mobile App Innovation** — I love exploring new patterns, animations, and UX solutions in mobile.
-
-### Outside of work, I’m:
-- Sharing tech tips & helping others grow 
-- Learning new tools, frameworks, and weird bugs 
-- Watching tech podcasts, Watching football  
 
 Let’s connect, collaborate, and create something impactful — the code kind of magic starts here.
 
@@ -80,9 +74,7 @@ Let’s connect, collaborate, and create something impactful — the code kind o
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](http://leetcode.com/u/sohid_chowdhury/)
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shakilchowdhury19)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shakil_chowdhury19/)
-- [![Email](https://img.shields.io/badge/Email-bishozitdas191@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsohidullahchowdhury1@gmail.com)
-
-Feel free to reach out for collaborations, tech discussions, or just to connect! Happy coding! 
+- [![Email](https://img.shields.io/badge/Email-mdsohidullahuchowdhury1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsohidullahchowdhury1@gmail.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MdSohidUllahChowdhury&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
