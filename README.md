@@ -12,7 +12,7 @@ Currently building cool stuff professionally using **Flutter**, turning ideas in
 
 Let’s connect, collaborate, and create something impactful — the code kind of magic starts here.
 
-# 💻 Tech Stack:
+### 💻 Technical Expertise:
 
 <p align="left">
   <a href="https://flutter.dev/" target="_blank">
@@ -76,7 +76,7 @@ Let’s connect, collaborate, and create something impactful — the code kind o
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shakil_chowdhury19/)
 - [![Email](https://img.shields.io/badge/Email-mdsohidullahuchowdhury1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsohidullahchowdhury1@gmail.com)
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MdSohidUllahChowdhury&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MdSohidUllahChowdhury&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdSohidUllahChowdhury&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
