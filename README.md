@@ -76,6 +76,8 @@ Let’s connect, collaborate, and create something impactful — the code kind o
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MdSohidUllahChowdhury&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
+<img src="https://komarev.com/ghpvc/?username=MdSohidUllahChowdhury&color=brightgreen" alt="watching_count" />
+
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
