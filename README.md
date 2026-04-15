@@ -25,13 +25,13 @@ Let’s connect, collaborate, and create something impactful — the code kind o
     <img src="https://img.shields.io/badge/Node.js-%233DDC84.svg?style=for-the-badge&logo=node.js&logoColor=black" alt="Nodejs"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/MySQL-%2302569B.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=orange" alt="Firebase"/>
   </a>
   <a href="https://supabase.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Supabase-%2302569B.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+    <img src="https://img.shields.io/badge/Supabase-%2302569B.svg?style=for-the-badge&logo=supabase&logoColor=green" alt="Supabase"/>
   </a>
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Postman-%23E34F26.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
@@ -55,7 +55,7 @@ Let’s connect, collaborate, and create something impactful — the code kind o
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   </a>
   <a href=" " target="_blank">
-    <img src="https://img.shields.io/badge/Jupyter%20Notebooks-%233DDC84.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebooks"/>
+    <img src="https://img.shields.io/badge/Jupyter%20Notebooks-%23000000.svg?style=for-the-badge&logo=jupyter&logoColor=orange" alt="Jupyter Notebooks"/>
   </a>
   <a href="https://cplusplus.com/" target="_blank">
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -64,7 +64,7 @@ Let’s connect, collaborate, and create something impactful — the code kind o
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
   </a>
   <a href=" " target="_blank">
     <img src="https://img.shields.io/badge/Docker-%2300599C.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"/>
